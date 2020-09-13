@@ -29,7 +29,7 @@ flutter:
   assets:
     - assets/images/
     - assets/pages/
-    - assets/widgets/
+    #- assets/widgets/
   fonts:
     - family: lato
       fonts:
